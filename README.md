@@ -93,7 +93,7 @@ Welcome to my GitHub! I'm a passionate **Computer Engineering student** blending
 
 ### 📖 **Books Authored**
 - **"The Cyber Alchemist: Unlocking the Secret of Hacking for Beginners"** (2025) - *Cybersecurity fundamentals & ethical hacking*
-- **"Brains in a Chip: A Guide to Microcontroller Realities"** (2025) - *Embedded systems & real-time programming*
+- **"Essence of Design"** (2025) - *Designing and Web Tech. & real-time programming*
 
 ### 🎓 **Research Papers**
 - **"Ambulance Detection Using RFID Reader"** - *International Journal of Novel Research and Development (IJNRD), Feb 2025*
@@ -104,14 +104,14 @@ Welcome to my GitHub! I'm a passionate **Computer Engineering student** blending
 - **Rising Star Award 2025** - Navsahyadri Education Society
 - **Best Research Project Award 2024** - College Technical Symposium
 - **DRDO-DIAT Research Fellowship** - Prestigious defense research internship
-- **Tata InnoVent 2026 Qualifier** - National-level innovation competition
+- **InnoVention 2025 Qualifier** - National-level innovation competition
 
 ---
 
 ## 💼 Experience & Leadership
 
 ### 🔬 **Research Experience**
-- **DRDO-DIAT Research Intern** (Jun 2025 - Present)  
+- **DRDO-DIAT Research Intern** (Jun 2025 - Sept 2025)  
   *Signal Processing, Machine Learning, Biomedical Data Analysis*
 - **Undergraduate Researcher** (2024 - Present)  
   *IoT Systems, Embedded AI, Smart City Technologies*
@@ -177,6 +177,6 @@ Welcome to my GitHub! I'm a passionate **Computer Engineering student** blending
 ```text
 📊 This Week's Development Breakdown:
 Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   45.2%
-JavaScript   🟨🟨🟨🟨🟨🟨🟨          28.7%
+HTML And CSS 🟨🟨🟨🟨🟨🟨🟨          28.7%
 Java         🟥🟥🟥🟥                15.4%
 C++          🟪🟪🟪                  10.7%
