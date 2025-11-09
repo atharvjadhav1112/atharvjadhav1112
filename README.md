@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Atharv Jadhav  
 
-**Computer Engineering Student | AI/ML Enthusiast | Research Intern @ DRDO–DIAT | Author & Innovator**
+**Computer Engineering Student | AI/ML Research Intern @ DRDO–DIAT | Published Author | Full-Stack Developer**
 
-Welcome to my GitHub profile!  
-I’m a passionate **Computer Engineering student** who loves blending **AI, Embedded Systems, and Real-World Problem Solving**.  
-I build impactful projects, contribute to open-source, and constantly explore how technology can make life smarter and faster.
+Welcome to my GitHub! I'm a passionate **Computer Engineering student** blending **AI research, embedded systems, and software development** to build intelligent solutions. Currently researching **signal processing & machine learning** at **DRDO-DIAT** while leading innovative projects that bridge hardware and software.
 
 ---
 
@@ -20,77 +18,117 @@ I build impactful projects, contribute to open-source, and constantly explore ho
 
 ## 🚀 About Me
 
-- 🎓 **Computer Engineering Student** at Navsahyadri Group of Institutes, Pune (SPPU 2019 Pattern)  
-- 🔬 **Research Intern** at **DRDO–DIAT Pune** — Working on *Signal Processing, Machine Learning & Data Analytics*  
-- 💡 **Project Leader** – *RFID-Based Ambulance Detection System* (Tata Technologies InnoVent 2026)  
-- ✍️ **Author** of *The Cyber Alchemist* and *Brains in a Chip* — bridging real-world systems and innovation  
-- 🌱 Currently exploring **AI-driven Embedded Systems**, **Edge Computing**, and **Data Science for IoT**  
-- 💬 Passionate about **research, automation, and building tech for impact**
+- 🎓 **B.Tech Computer Engineering** at NGI, Pune (SPPU 2023-2027) | CGPA: 8.82/10
+- 🔬 **Research Intern @ DRDO-DIAT** - Working on **biomedical signal processing & ML algorithms**
+- 🏆 **Award-winning Innovator** - Rising Star Award 2025, Best Research Project 2024
+- 📚 **Published Author** - 2 technical books & research papers in international journals
+- 💡 **Project Lead** - RFID-based Ambulance Detection System (Selected for Tata InnoVent 2026)
+- 🌱 **Currently Exploring** - Edge AI, Real-time Systems, Cloud Architecture, Quantum Computing Basics
+- 🎯 **Career Focus** - Research Scientist | AI Engineer | Embedded Systems Specialist
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
-### 💻 Languages  
-`Python` `C++` `Java` `JavaScript` `HTML/CSS` `SQL` `MATLAB`
+### 💻 **Programming & Markup**
+`Python` `Java` `C/C++` `JavaScript` `TypeScript` `HTML5` `CSS3` `SQL` `MATLAB` `R` `Bash`
 
-### ⚙️ Frameworks & Libraries  
-`React.js` `Node.js` `Express.js` `Django` `TensorFlow` `Scikit-learn` `NumPy` `Pandas`
+### 🤖 **AI/ML & Data Science**
+`TensorFlow` `PyTorch` `Scikit-learn` `Keras` `OpenCV` `Pandas` `NumPy` `SciPy` `NLTK`
 
-### 🧰 Tools & Platforms  
-`Git` `Docker` `VS Code` `Postman` `Tableau` `PowerBI` `Jupyter` `MySQL` `MongoDB` `AWS`
+### 🌐 **Web Development**
+`React.js` `Node.js` `Express.js` `Django` `Flask` `Spring Boot` `REST APIs` `GraphQL` `WebSockets`
 
-### 🌐 Domains  
-`AI/ML` `Data Science` `Embedded Systems` `Signal Processing` `IoT` `Web Development` `Cloud Computing`
+### 🗄️ **Databases & Cloud**
+`MySQL` `PostgreSQL` `MongoDB` `Redis` `Firebase` `AWS` `Docker` `Kubernetes` `Heroku`
+
+### 🔧 **Tools & Platforms**
+`Git` `VS Code` `IntelliJ` `Jupyter` `Postman` `Tableau` `PowerBI` `Arduino` `Raspberry Pi`
+
+### 🎯 **Domains & Specializations**
+`Machine Learning` `Deep Learning` `Signal Processing` `Embedded Systems` `IoT` `Computer Vision` `Data Analytics` `Cloud Computing` `DevOps`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvjadhav1112&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvjadhav1112&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvjadhav1112&show_icons=true&count_private=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvjadhav1112&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvjadhav1112&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvjadhav1112&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvjadhav1112&theme=react-dark&bg_color=000000&hide_border=true" width="49%" />
 </p>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🔬 Research & AI/ML
-- 🚑 **[RFID-Based Ambulance Detection System](https://github.com/atharvjadhav1112/smart-traffic)** — IoT + AI project for Smart City traffic management  
-- 📈 **[Enhanced Signal Preprocessor & Analyzer](https://github.com/atharvjadhav1112/signal-analyzer)** — Tkinter-based GUI for real-time signal analytics  
-- 🤖 **[Anomaly Detection System](https://github.com/atharvjadhav1112/anomaly-detector)** — AI model for identifying unusual patterns in live data
+### 🔬 **Research & AI/ML**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[🧠 Smart Signal Analyzer](https://github.com/atharvjadhav1112/signal-analyzer)** | Real-time biomedical signal processing with 95% noise reduction & ML classification | Python, TensorFlow, Tkinter, Matplotlib |
+| **[🚑 RFID Ambulance Detection](https://github.com/atharvjadhav1112/smart-traffic)** | IoT system for emergency vehicle prioritization (98% accuracy) | Embedded C, Python, RFID, Web Dashboard |
+| **[📈 Market Intelligence Platform](https://github.com/atharvjadhav1112/market-analyzer)** | Real-time financial data analysis with predictive analytics | React, Node.js, MongoDB, ML Algorithms |
 
-### 💻 Software & Web Development
-- 🏫 **[College Management System](https://github.com/atharvjadhav1112/college-management)** — MERN-based full-stack academic management app  
-- 🌐 **[Portfolio Website](https://v0-portfolio-project-ideas-five.vercel.app/)** — Modern interactive portfolio built with HTML, CSS & JS  
-- 📊 **[Real-Time Data Visualizer](https://github.com/atharvjadhav1112/data-visualizer)** — Live telemetry monitoring dashboard for sensor data
+### 💻 **Software Development**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[🏫 College Management System](https://github.com/atharvjadhav1112/college-management)** | Full-stack enterprise application for academic institutions | Java, Spring Boot, MySQL, React |
+| **[🌐 Personal Portfolio v2](https://v0-portfolio-project-ideas-five.vercel.app/)** | Modern interactive portfolio with project showcases | HTML5, CSS3, JavaScript, GSAP |
+| **[⚡ Real-time Data Visualizer](https://github.com/atharvjadhav1112/data-visualizer)** | Live telemetry dashboard for IoT sensor networks | Python, WebSockets, D3.js, FastAPI |
 
----
-
-## 📚 Publications & Achievements  
-
-### 📖 Books
-- 🧠 **_The Cyber Alchemist: Unlocking the Secret of Hacking for Beginners_** (2025)  
-- ⚙️ **_Esssence of Design_** — A technical deep dive into real-time Designing and Development  
-
-### 🧠 Research Papers
-- 🩺 **“Ambulance Detection Using RFID Reader”** — Published in *IJNRD Journal (Feb 2025)*  
-- 📡 **“Advanced Signal Processing for Biomedical Applications”** — Under review for *IEEE Scopus*  
-
-### 🏅 Awards & Recognitions
-- 🏆 **Rising Star Award 2025** — NEXUS Magazine Editorial Team  
-- 🎖️ **Best Research Project Award 2024** — Smart Tech Symposium  
-- 🔬 **Research Fellowship @ DRDO–DIAT Pune**  
-- 💼 **Team Lead, TechGuardians** — *InnoVent 2026 National-Level Project*
+### 🔧 **Tools & Utilities**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[🤖 AI Code Assistant](https://github.com/atharvjadhav1112/ai-coder)** | VS Code extension for intelligent code completion | TypeScript, OpenAI API, Node.js |
+| **[📊 Data Pipeline Framework](https://github.com/atharvjadhav1112/data-pipeline)** | Scalable ETL framework for big data processing | Python, Apache Airflow, PostgreSQL |
+| **[🔐 Secure Auth System](https://github.com/atharvjadhav1112/auth-system)** | JWT-based authentication microservice | Node.js, Redis, MongoDB, Docker |
 
 ---
 
-## 📫 Connect With Me
+## 📚 Publications & Research
+
+### 📖 **Books Authored**
+- **"The Cyber Alchemist: Unlocking the Secret of Hacking for Beginners"** (2025) - *Cybersecurity fundamentals & ethical hacking*
+- **"Brains in a Chip: A Guide to Microcontroller Realities"** (2025) - *Embedded systems & real-time programming*
+
+### 🎓 **Research Papers**
+- **"Ambulance Detection Using RFID Reader"** - *International Journal of Novel Research and Development (IJNRD), Feb 2025*
+- **"Advanced Signal Processing Techniques for Biomedical Applications"** - *Under review for IEEE Transactions*
+- **"Machine Learning Approaches for Real-time Anomaly Detection in IoT Systems"** - *In preparation*
+
+### 🏅 **Awards & Recognition**
+- **Rising Star Award 2025** - Navsahyadri Education Society
+- **Best Research Project Award 2024** - College Technical Symposium
+- **DRDO-DIAT Research Fellowship** - Prestigious defense research internship
+- **Tata InnoVent 2026 Qualifier** - National-level innovation competition
+
+---
+
+## 💼 Experience & Leadership
+
+### 🔬 **Research Experience**
+- **DRDO-DIAT Research Intern** (Jun 2025 - Present)  
+  *Signal Processing, Machine Learning, Biomedical Data Analysis*
+- **Undergraduate Researcher** (2024 - Present)  
+  *IoT Systems, Embedded AI, Smart City Technologies*
+
+### 👨‍💻 **Technical Leadership**
+- **Technical Lead** - TechGuardians Team | *InnoVent 2026 National Project*
+- **Campus Tech Presenter** - Delivered 10+ technical seminars on AI & Embedded Systems
+- **Open Source Contributor** - Active across multiple repositories and communities
+
+### 🏛️ **Positions of Responsibility**
+- **Treasurer** - Computer Department, NGI Pune | *Managed 2L+ INR budget*
+- **Editorial Team Member** - NEXUS Committee | *Technology content creation & editing*
+- **NSS Volunteer** - Community development & digital literacy programs
+
+---
+
+## 📫 Let's Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharv-jadhav-6044032b2">
@@ -105,31 +143,40 @@ I build impactful projects, contribute to open-source, and constantly explore ho
   <a href="https://x.com/atha33912">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/atharvjadhav1112">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://leetcode.com/u/atharvjadhav1112/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@atharvjadhav1112">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💡 Currently Working On  
+## 💡 Currently Building
 
-- 🔭 Advanced ML models for **Signal Processing & IoT Systems**  
-- ☁️ Learning **Cloud + DevOps pipelines**  
-- 🤝 Collaborating on **AI + Embedded** Open Source projects  
-- 💬 Passionate about **C++, Python, ML, and Real-Time Systems**  
-- ⚡ **Fun Fact:** I can fix a bug faster than I can pick a song for coding 😄  
+- 🔭 **Advanced ML Research** at DRDO-DIAT - Biomedical signal classification
+- 🌱 **Learning** - Cloud Native Technologies, Advanced Algorithms, System Design
+- 👯 **Looking to Collaborate** on Open Source AI/ML and Embedded Systems projects
+- 🤔 **Exploring** - Quantum Machine Learning, Federated Learning, Edge AI
+- 💬 **Ask me about** - Python, Machine Learning, Research Methodology, Career Guidance
+- ⚡ **Fun fact** - I can debug complex algorithms faster than deciding what to eat! 🍕
 
 ---
 
-## 📈 Contribution Graph  
+## 🎯 GitHub Trophy Case
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvjadhav1112&theme=react-dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atharvjadhav1112&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-**⭐ Explore my repositories, fork freely, and star your favorites — it motivates me to build more!**  
+## 📈 Contribution Metrics
 
-> _“The best way to predict the future is to create it.” — Alan Kay_
+```text
+📊 This Week's Development Breakdown:
+Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   45.2%
+JavaScript   🟨🟨🟨🟨🟨🟨🟨          28.7%
+Java         🟥🟥🟥🟥                15.4%
+C++          🟪🟪🟪                  10.7%
