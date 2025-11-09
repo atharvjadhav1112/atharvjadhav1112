@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Atharv Jadhav  
 
-**Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast | Researcher**
+**Computer Engineering Student | AI/ML Enthusiast | Research Intern @ DRDO–DIAT | Author & Innovator**
 
-Welcome to my GitHub profile! I'm a passionate Computer Engineering student with expertise in software development, machine learning, and embedded systems.  
-I love building innovative solutions and contributing to meaningful open-source projects.
+Welcome to my GitHub profile!  
+I’m a passionate **Computer Engineering student** who loves blending **AI, Embedded Systems, and Real-World Problem Solving**.  
+I build impactful projects, contribute to open-source, and constantly explore how technology can make life smarter and faster.
 
 ---
 
@@ -19,32 +20,32 @@ I love building innovative solutions and contributing to meaningful open-source 
 
 ## 🚀 About Me
 
-- 🎓 **Computer Engineering Student** at NGI, Pune (2023–2027)  
-- 🔬 **Research Intern** at DRDO–DIAT — Working on signal processing and ML applications  
-- 📚 **Published Author** of 2 technical books and multiple research papers  
-- 💻 **Full-Stack Developer** with 2+ years of experience  
-- 🏆 **Award-Winning Researcher & Innovator**  
-- 🌱 Currently exploring **Advanced Machine Learning**, **Cloud Technologies**, and **IoT Systems**
+- 🎓 **Computer Engineering Student** at Navsahyadri Group of Institutes, Pune (SPPU 2019 Pattern)  
+- 🔬 **Research Intern** at **DRDO–DIAT Pune** — Working on *Signal Processing, Machine Learning & Data Analytics*  
+- 💡 **Project Leader** – *RFID-Based Ambulance Detection System* (Tata Technologies InnoVent 2026)  
+- ✍️ **Author** of *The Cyber Alchemist* and *Brains in a Chip* — bridging real-world systems and innovation  
+- 🌱 Currently exploring **AI-driven Embedded Systems**, **Edge Computing**, and **Data Science for IoT**  
+- 💬 Passionate about **research, automation, and building tech for impact**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages  
-`Python` `C/C++` `Java` `JavaScript` `SQL` `HTML/CSS` `MATLAB`
+### 💻 Languages  
+`Python` `C++` `Java` `JavaScript` `HTML/CSS` `SQL` `MATLAB`
 
 ### ⚙️ Frameworks & Libraries  
-`React.js` `Node.js` `Express.js` `Django` `Spring Boot` `TensorFlow` `Scikit-learn` `Pandas` `NumPy`
+`React.js` `Node.js` `Express.js` `Django` `TensorFlow` `Scikit-learn` `NumPy` `Pandas`
 
-### 🧰 Tools & Technologies  
-`Git` `Docker` `VS Code` `Postman` `PowerBI` `Tableau` `MySQL` `MongoDB` `AWS` `Jupyter`
+### 🧰 Tools & Platforms  
+`Git` `Docker` `VS Code` `Postman` `Tableau` `PowerBI` `Jupyter` `MySQL` `MongoDB` `AWS`
 
 ### 🌐 Domains  
-`Machine Learning` `Data Science` `Web Development` `Embedded Systems` `Signal Processing` `IoT` `Cloud Computing`
+`AI/ML` `Data Science` `Embedded Systems` `Signal Processing` `IoT` `Web Development` `Cloud Computing`
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atharvjadhav1112&show_icons=true&theme=radical" height="165" />
@@ -57,43 +58,39 @@ I love building innovative solutions and contributing to meaningful open-source 
 
 ---
 
-## 🏆 Project Highlights
+## 🏆 Featured Projects
 
-### 🔬 Research & AI/ML Projects
-- **[Signal Processing Toolkit](https://github.com/atharvjadhav1112/signal-processor)** — Advanced biomedical signal analysis using ML  
-- **[Market Analysis Platform](https://github.com/atharvjadhav1112/market-analyzer)** — Real-time stock/market data prediction  
-- **[Anomaly Detection System](https://github.com/atharvjadhav1112/anomaly-detector)** — ML-powered system for real-time anomaly detection  
+### 🔬 Research & AI/ML
+- 🚑 **[RFID-Based Ambulance Detection System](https://github.com/atharvjadhav1112/smart-traffic)** — IoT + AI project for Smart City traffic management  
+- 📈 **[Enhanced Signal Preprocessor & Analyzer](https://github.com/atharvjadhav1112/signal-analyzer)** — Tkinter-based GUI for real-time signal analytics  
+- 🤖 **[Anomaly Detection System](https://github.com/atharvjadhav1112/anomaly-detector)** — AI model for identifying unusual patterns in live data
 
-### 💻 Software Development
-- **[College Management System](https://github.com/atharvjadhav1112/college-management)** — Full-stack academic management app  
-- **[Real-time Data Visualizer](https://github.com/atharvjadhav1112/data-visualizer)** — Live telemetry & data visualization tool  
-- **[IoT Traffic System](https://github.com/atharvjadhav1112/smart-traffic)** — RFID-based intelligent traffic signal system  
-
-### 🌐 Web Development
-- **[E-Commerce Platform](https://github.com/atharvjadhav1112/ecommerce-app)** — MERN stack e-commerce web app  
-- **[Portfolio Website](https://github.com/atharvjadhav1112/portfolio)** — Personal portfolio with modern UI/UX  
-- **[API Integration Suite](https://github.com/atharvjadhav1112/api-suite)** — RESTful API integration toolkit  
+### 💻 Software & Web Development
+- 🏫 **[College Management System](https://github.com/atharvjadhav1112/college-management)** — MERN-based full-stack academic management app  
+- 🌐 **[Portfolio Website](https://v0-portfolio-project-ideas-five.vercel.app/)** — Modern interactive portfolio built with HTML, CSS & JS  
+- 📊 **[Real-Time Data Visualizer](https://github.com/atharvjadhav1112/data-visualizer)** — Live telemetry monitoring dashboard for sensor data
 
 ---
 
 ## 📚 Publications & Achievements  
 
-### 📖 Books Authored
-- **_The Cyber Alchemist: Unlocking the Secret of Hacking for Beginners_** (2025)  
-- **_Essence of Design_** — Engineering design methodologies (2025)  
+### 📖 Books
+- 🧠 **_The Cyber Alchemist: Unlocking the Secret of Hacking for Beginners_** (2025)  
+- ⚙️ **_Esssence of Design_** — A technical deep dive into real-time Designing and Development  
 
 ### 🧠 Research Papers
-- **"Ambulance Detection Using RFID Reader"** — Published in IJNRD Journal (Feb 2025)  
-- **"Advanced Signal Processing for Biomedical Applications"** — In preparation  
+- 🩺 **“Ambulance Detection Using RFID Reader”** — Published in *IJNRD Journal (Feb 2025)*  
+- 📡 **“Advanced Signal Processing for Biomedical Applications”** — Under review for *IEEE Scopus*  
 
-### 🏅 Awards
-- 🏆 **Rising Star Award 2025** — Navsahyadri Education Society  
-- 🧑‍🔬 **DRDO–DIAT Research Fellowship**  
-- 🎖️ **Best Research Project Award** — Technical Symposium 2024  
+### 🏅 Awards & Recognitions
+- 🏆 **Rising Star Award 2025** — NEXUS Magazine Editorial Team  
+- 🎖️ **Best Research Project Award 2024** — Smart Tech Symposium  
+- 🔬 **Research Fellowship @ DRDO–DIAT Pune**  
+- 💼 **Team Lead, TechGuardians** — *InnoVent 2026 National-Level Project*
 
 ---
 
-## 📫 Let's Connect  
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharv-jadhav-6044032b2">
@@ -102,11 +99,14 @@ I love building innovative solutions and contributing to meaningful open-source 
   <a href="mailto:atharvjadhav1112@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://atharvjadhav1112.github.io">
+  <a href="https://v0-portfolio-project-ideas-five.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://twitter.com/atharvjadhav">
+  <a href="https://x.com/atha33912">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/atharvjadhav1112">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -114,11 +114,11 @@ I love building innovative solutions and contributing to meaningful open-source 
 
 ## 💡 Currently Working On  
 
-- 🔭 Research in **Advanced Machine Learning** at DRDO–DIAT  
-- ☁️ Learning **Cloud & DevOps** technologies  
-- 👯 Collaborating on **AI/ML open-source** projects  
-- 💬 Ask me about **Python, ML, and Web Development**  
-- ⚡ **Fun Fact:** I can debug 500 lines of code but still can’t decide what to eat! 😄  
+- 🔭 Advanced ML models for **Signal Processing & IoT Systems**  
+- ☁️ Learning **Cloud + DevOps pipelines**  
+- 🤝 Collaborating on **AI + Embedded** Open Source projects  
+- 💬 Passionate about **C++, Python, ML, and Real-Time Systems**  
+- ⚡ **Fun Fact:** I can fix a bug faster than I can pick a song for coding 😄  
 
 ---
 
@@ -130,21 +130,6 @@ I love building innovative solutions and contributing to meaningful open-source 
 
 ---
 
-**⭐ Explore my repositories and star what you like — it motivates me to build more!**  
+**⭐ Explore my repositories, fork freely, and star your favorites — it motivates me to build more!**  
 
-> _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
-
-<!--
-**atharvjadhav1112/atharvjadhav1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _“The best way to predict the future is to create it.” — Alan Kay_
