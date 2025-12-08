@@ -1,10 +1,18 @@
-# 👋 Hi, I'm Atharv Jadhav  
+<!--
+   🔥 ATHARV JADHAV | GITHUB PROFILE README
+-->
 
-**Computer Engineering Student | AI/ML Research Intern @ DRDO–DIAT | Published Author | Full-Stack Developer**
+<h1 align="center">👋 Hi, I'm Atharv Jadhav</h1>
 
-Welcome to my GitHub! I'm a passionate **Computer Engineering student** blending **AI research, embedded systems, and software development** to build intelligent solutions. Currently researching **signal processing & machine learning** at **DRDO-DIAT** while leading innovative projects that bridge hardware and software.
+<h3 align="center">
+Computer Engineering Student • Data Science & AI Research Enthusiast • ML Engineer • Published Author • Full-Stack Developer
+</h3>
 
----
+<p align="center">
+  <a href="https://github.com/atharvjadhav1112">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%26+AI+Research+Intern;Signal+Processing+Enthusiast;Machine+Learning+Engineer;Embedded+Systems+%26+IoT+Developer;Published+Author+%26+Researcher;Always+learning+something+new+🚀&center=true&width=900&height=45&pause=900&size=22" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atharvjadhav1112&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
@@ -18,35 +26,282 @@ Welcome to my GitHub! I'm a passionate **Computer Engineering student** blending
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech Computer Engineering** at NGI, Pune (SPPU 2023-2027) | CGPA: 8.82/10
-- 🔬 **Research Intern @ DRDO-DIAT** - Working on **biomedical signal processing & ML algorithms**
-- 🏆 **Award-winning Innovator** - Rising Star Award 2025, Best Research Project 2024
-- 📚 **Published Author** - 2 technical books & research papers in international journals
-- 💡 **Project Lead** - RFID-based Ambulance Detection System (Selected for Tata InnoVent 2026)
-- 🌱 **Currently Exploring** - Edge AI, Real-time Systems, Cloud Architecture, Quantum Computing Basics
-- 🎯 **Career Focus** - Research Scientist | AI Engineer | Embedded Systems Specialist
+I’m a passionate **Computer Engineering student** blending **AI research, signal processing, embedded systems, and software development** to build intelligent, real-time systems. I currently work as a **Data Science Research Intern at DRDO–DIAT**, focusing on **biomedical signal processing and machine learning** while leading projects that bridge **hardware and software**.
+
+- 🎓 **B.Tech in Computer Engineering**, NGI Pune – SPPU (2023–2027)  
+  - CGPA: **8.82/10 (First Year)** • **8.36/10 (Second Year)**
+- 🔬 **Data Science Research Intern @ DRDO–DIAT (Jun 2025 – Sept 2025)**  
+  - Real-time biomedical signal preprocessing pipelines  
+  - **95% noise reduction** using advanced digital filters  
+  - **92% accuracy** in biomedical signal classification  
+  - **40% improvement** in processing efficiency via optimization & parallelization  
+  - Tkinter-based GUIs for real-time visualization & analysis  
+  - Embedded systems integration for **real-time biomedical monitoring**
+- 👨‍🔬 **Primary Investigator – AutoAnomalyDetection (Sept 2025 – Present)**  
+  - Unified anomaly detection framework across multiple domains  
+  - **93.4% detection accuracy** with **23% reduction in false positives**  
+  - 8–15% improvement in **AUC-ROC** across datasets  
+- 🏆 **Awards & Recognition**  
+  - Rising Star Award 2025 – Navsahyadri Education Society  
+  - DRDO–DIAT Research Fellowship – Defense research internship  
+  - Academic Excellence Award – Consistent high performance in technical subjects  
+  - Best Research Project Award 2024 – College Technical Symposium  
+  - InnoVention 2025 Qualifier – National-level innovation competition  
+- 📚 **Published Author & Researcher**  
+  - 2 technical books and multiple papers in **IRE Journals**, **IJNRD**, and other venues  
+- 🌱 **Currently Exploring**  
+  - Edge AI • Real-time Systems • Cloud Architecture • Quantum Error Correction • Quantum & Federated ML • Advanced Signal Processing  
+- 🎯 **Career Focus**  
+  - AI / ML Research Scientist • Machine Learning Engineer • Embedded & Edge AI Specialist  
+- 📍 **Location:** Pune, India  
+- ✉️ **Email:** atharvjadhav1112@gmail.com  
+- 📱 **Phone:** +91 86983 10903  
+
+---
+
+## 🧾 Professional Summary
+
+> Computer Engineering student and **Data Science Research Intern at DRDO–DIAT** with experience in **machine learning, signal processing, and data analysis**. Proven track record in building **end-to-end ML pipelines**, developing **automated anomaly detection systems**, and delivering **data-driven solutions** in real-world research environments. Strong foundation in **statistical analysis, predictive modeling, and real-time data processing**.
 
 ---
 
 ## 🛠️ Technical Stack
 
-### 💻 **Programming & Markup**
-`Python` `Java` `C/C++` `JavaScript` `TypeScript` `HTML5` `CSS3` `SQL` `MATLAB` `R` `Bash`
+### 💻 Programming & Markup
 
-### 🤖 **AI/ML & Data Science**
-`TensorFlow` `PyTorch` `Scikit-learn` `Keras` `OpenCV` `Pandas` `NumPy` `SciPy` `NLTK`
+`Python (Advanced)` • `Java` • `C/C++` • `SQL` • `JavaScript` • `TypeScript` • `HTML5` • `CSS3` • `MATLAB` • `R` • `Bash`
 
-### 🌐 **Web Development**
-`React.js` `Node.js` `Express.js` `Django` `Flask` `Spring Boot` `REST APIs` `GraphQL` `WebSockets`
+### 🤖 Machine Learning, AI & Data Science
 
-### 🗄️ **Databases & Cloud**
-`MySQL` `PostgreSQL` `MongoDB` `Redis` `Firebase` `AWS` `Docker` `Kubernetes` `Heroku`
+`Scikit-learn` • `TensorFlow` • `Keras` • `PyTorch` • `PyOD` • `Regression` • `Classification` • `Clustering` • `Anomaly Detection` • `Statistical Analysis` • `Pandas` • `NumPy` • `SciPy` • `OpenCV` • `NLTK`  
 
-### 🔧 **Tools & Platforms**
-`Git` `VS Code` `IntelliJ` `Jupyter` `Postman` `Tableau` `PowerBI` `Arduino` `Raspberry Pi`
+### 📊 Data Analysis & Visualization
 
-### 🎯 **Domains & Specializations**
-`Machine Learning` `Deep Learning` `Signal Processing` `Embedded Systems` `IoT` `Computer Vision` `Data Analytics` `Cloud Computing` `DevOps`
+`Matplotlib` • `Seaborn` • `Plotly` • `Power BI` • `Tableau`
+
+### 🌐 Web, Backend & APIs
+
+`React.js` • `Node.js` • `Express.js` • `Django` • `Flask` • `Spring Boot` • `Thymeleaf` • `Bootstrap` • `REST APIs` • `GraphQL` • `WebSockets` • `Tkinter`
+
+### 🗄️ Databases, Big Data & Cloud
+
+`MySQL` • `PostgreSQL` • `MongoDB` • `Redis` • `Firebase` • `Big Data Analytics` • `AWS` • `Docker` • `Kubernetes` • `Heroku`
+
+### 🔬 Signal Processing & Embedded Systems
+
+`Digital Filters (Savitzky–Golay, Butterworth, Wavelet)` • `FFT` • `Noise Reduction` • `Spectral Analysis` • `Embedded C` • `RFID` • `Arduino` • `Raspberry Pi`
+
+### 🧰 Tools & Platforms
+
+`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `IntelliJ` • `Linux` • `Postman`
+
+### 🎯 Domains & Specializations
+
+`Machine Learning` • `Deep Learning` • `Signal Processing` • `Biomedical Data Analysis` • `Embedded Systems` • `IoT` • `Computer Vision` • `Data Analytics` • `Big Data` • `Cloud Computing` • `DevOps Basics` • `Research Methodology`
+
+---
+
+## 💼 Experience
+
+### 🔬 Data Science Research Intern — DRDO–DIAT, Pune  
+**Jun 2025 – Sept 2025**
+
+- Built **real-time signal preprocessing pipelines** for biomedical data using Python  
+- Implemented **Savitzky–Golay, Butterworth & Wavelet** filters → **95% noise reduction**  
+- Developed ML models for **biomedical signal classification** with **92% accuracy**  
+- Created **Tkinter-based GUI** for real-time signal visualization & analysis  
+- Improved data processing efficiency by **40%** via algorithm optimization & parallel processing  
+- Collaborated on **embedded systems** for real-time biomedical monitoring  
+- Applied **statistical analysis & hypothesis testing** to validate models and data quality  
+
+### 🧪 Undergraduate Researcher — NGI, Pune  
+**2024 – Present**
+
+- Research on **IoT systems, embedded AI, smart city & intelligent transportation systems**  
+- Mentoring juniors on **ML, embedded development, and research methodology**  
+
+---
+
+## 🔬 Research & Major Projects
+
+### 🧠 AutoAnomalyDetection – Unified Framework for Automated Multi-Modal Anomaly Detection  
+**Primary Investigator & Lead Developer (Sept 2025 – Present)**
+
+- Unified **supervised, semi-supervised & unsupervised** anomaly detection methods  
+- Engineered ensemble system achieving **8–15% AUC-ROC improvement** across datasets  
+- Implemented **automated mode selection** for dynamic routing based on data characteristics  
+- Achieved **93.4% detection accuracy** and **23% false positive reduction**  
+- Designed interpretable visualization system with **context-aware anomaly reports**  
+- **Tech:** Python, Scikit-learn, PyOD, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn  
+
+---
+
+### 📡 Enhanced Signal Preprocessor & Analyzer – DRDO–DIAT Project
+
+- Built comprehensive **signal processing toolkit** with multiple filtering algorithms  
+- Implemented **adaptive filtering techniques** for dynamic noise conditions  
+- Developed **ML-based classification system** for pattern recognition & anomaly detection  
+- Created **automated data validation framework** → **60% reduction** in manual verification time  
+- Designed **modular architecture** with plug-in support for different signal types  
+
+---
+
+### 📈 Financial Market Analysis Platform
+
+- Built **end-to-end data pipeline** for real-time market data from multiple APIs  
+- Implemented **ARIMA & regression** for stock trend prediction  
+- Designed **interactive Power BI dashboards** for rich market insights  
+- Developed **automated reporting system** generating daily analysis & recommendations  
+- Scaled to **10,000+ daily data points** with efficient storage & retrieval  
+
+---
+
+### 🏫 Alumni Connect Portal – Enterprise Web Application
+
+- Full-stack alumni networking platform for **connection, mentorship & careers**  
+- **Role-based access control** for students, alumni, administrators  
+- Advanced search & filtering by **skills, industry, location, graduation year**  
+- Responsive UI with focus on **UX & accessibility**  
+- **Tech:** Java, Spring Boot, MySQL, Thymeleaf, Bootstrap, HTML5/CSS3  
+
+---
+
+### 🚑 Ambulance Detection System Using RFID
+
+- Intelligent traffic management system using **RFID** for emergency vehicle prioritization  
+- Designed **hardware (RFID readers, sensors)** and software interfaces  
+- Built web-based dashboard for **real-time system monitoring & configuration**  
+- Reported up to **98% detection accuracy** in experimental setups  
+- **Tech:** Python, Embedded C, HTML/CSS, RFID Hardware  
+
+---
+
+### 📈 Market Intelligence Platform (Web Edition)
+
+- Real-time financial analytics platform with **React** frontend and **Node.js** backend  
+- Integrated ML algorithms for **trend prediction & anomaly detection**  
+- Visualized metrics using **interactive charts & dashboards**  
+
+---
+
+### 🌐 Software & Web Development Highlights
+
+- **College Management System** – Enterprise app for academic workflows  
+  - Tech: Java, Spring Boot, MySQL, React  
+- **Personal Portfolio v2** – Interactive portfolio with animations  
+  - Tech: HTML5, CSS3, JavaScript, GSAP  
+- **Real-time Data Visualizer** – Live IoT telemetry dashboard  
+  - Tech: Python, WebSockets, D3.js, FastAPI  
+
+---
+
+### 🔧 Tools & Utilities
+
+- **AI Code Assistant** – VS Code extension for smart code completion & debugging  
+  - Tech: TypeScript, OpenAI API, Node.js  
+- **Data Pipeline Framework** – Scalable ETL framework  
+  - Tech: Python, Apache Airflow, PostgreSQL  
+- **Secure Auth System** – JWT-based microservice with Redis caching  
+  - Tech: Node.js, Redis, MongoDB, Docker  
+
+---
+
+## 📚 Publications & Books
+
+### 🧾 Research Papers
+
+- **“AI for Quantum Error Correction” – IRE Journals (March 2025)**  
+  - Integrates AI to enhance **quantum error correction** frameworks  
+  - Focus on ML-based **error detection & noise mitigation** in quantum systems  
+
+- **“Ambulance Detection Using RFID Reader” – IJNRD (Feb 2025)**  
+  - RFID-based intelligent traffic management architecture  
+  - Discusses system design, implementation challenges, performance metrics  
+
+- **AutoAnomalyDetection Framework – Submitted (2025)**  
+  - Submitted to *Advanced Engineering Informatics*  
+
+- **“Advanced Signal Processing Techniques for Biomedical Applications” – In Preparation**  
+  - For **IEEE Transactions**  
+
+- **“Machine Learning Approaches for Real-time Anomaly Detection in IoT Systems” – In Preparation**
+
+---
+
+### 📖 Books Authored
+
+- **“The Cyber Alchemist: Unlocking the Secret of Hacking for Beginners” (2025)**  
+  - Cybersecurity fundamentals & **ethical hacking**  
+  - Used as reference material in educational institutions  
+
+- **“Essence of Design” (2025)**  
+  - Research-based guide to **engineering design thinking & innovation**  
+  - Covers foundations of **design, web tech & real-time programming**
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.Tech in Computer Engineering**, NGI, Pune (SPPU) — **2023–2027**  
+  - CGPA: **8.82/10 (First Year)** • **8.36/10 (Second Year)**  
+  - Relevant Coursework:  
+    - Machine Learning • Data Structures & Algorithms • DBMS  
+    - Statistics & Probability • Software Engineering • Big Data Analytics  
+
+- 🎓 **Higher Secondary Certificate – Sahyadri Vidyalaya Bramhanwada (Akole)** – 2023  
+  - Percentage: **64.17%**
+
+---
+
+## 🏅 Awards & Achievements
+
+- 🏆 **Rising Star Award 2025** – Navsahyadri Education Society  
+- 🏅 **DRDO–DIAT Research Fellowship** – Defense research internship  
+- 🥇 **Academic Excellence Award** – Consistently high performance in technical subjects  
+- 🏆 **Best Research Project Award 2024** – College Technical Symposium  
+- 🚀 **InnoVention 2025 Qualifier** – National innovation competition  
+- 🧠 Developed **AutoAnomalyDetection framework** surpassing state-of-the-art baselines  
+- 🧩 Created **first unified automated system** for multi-modal anomaly detection in your workflow  
+- 🛠️ Reduced required domain expertise with **fully automated ML pipeline**
+
+---
+
+## 🧠 Leadership & Positions of Responsibility
+
+- 💰 **Treasurer — Computer Department, NGI Pune (Aug 2024 – Present)**  
+  - Manage **₹200,000+ budget** for academic activities, workshops & events  
+  - Plan financials and resource allocation for departmental initiatives  
+
+- ✍️ **Editorial Team Member — NEXUS Committee (Feb 2025 – Present)**  
+  - Author & edit technical articles on **emerging technologies & industry trends**  
+  - Work with faculty & industry experts on high-quality technical content  
+
+- 🎙️ **Campus Tech Presenter — Department Seminars (2024 – Present)**  
+  - Delivered **10+ technical talks** on **Embedded Systems, IoT & AI**  
+  - Conducted hands-on workshops on **microcontroller programming & IoT**  
+  - Share industry trends with student community  
+
+- 🧑‍🏫 **Technical Mentor**  
+  - Guide juniors in **projects, research, and career paths**  
+
+- 🌍 **NSS Volunteer**  
+  - Active in **social service**, blood donation camps & outreach  
+
+- ✒️ **Technical Blog Writer**  
+  - Contributor to **college tech blog & online programming communities**  
+
+- 🧑‍💻 **Open Source Contributor**  
+  - Active on GitHub with **multiple repositories & contributions**
+
+---
+
+## 🎓 Certifications & Training
+
+- 📊 **Certified Power BI Analyst (2025)** – Advanced Data Visualization & BI  
+- 📡 **Data Science & Big Data Analytics — CloudBlitz (2025)**  
+- 🐍 **Python and Artificial Intelligence — Devtown (2024)**  
+- 🤖 **AI Tools Workshop — be10x (2025)**  
+- 🌱 **Git & GitHub Mastery** – Version control & collaborative development  
 
 ---
 
@@ -64,75 +319,53 @@ Welcome to my GitHub! I'm a passionate **Computer Engineering student** blending
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 GitHub Trophy Case
 
-### 🔬 **Research & AI/ML**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[🧠 Smart Signal Analyzer](https://github.com/atharvjadhav1112/signal-analyzer)** | Real-time biomedical signal processing with 95% noise reduction & ML classification | Python, TensorFlow, Tkinter, Matplotlib |
-| **[🚑 RFID Ambulance Detection](https://github.com/atharvjadhav1112/smart-traffic)** | IoT system for emergency vehicle prioritization (98% accuracy) | Embedded C, Python, RFID, Web Dashboard |
-| **[📈 Market Intelligence Platform](https://github.com/atharvjadhav1112/market-analyzer)** | Real-time financial data analysis with predictive analytics | React, Node.js, MongoDB, ML Algorithms |
-
-### 💻 **Software Development**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[🏫 College Management System](https://github.com/atharvjadhav1112/college-management)** | Full-stack enterprise application for academic institutions | Java, Spring Boot, MySQL, React |
-| **[🌐 Personal Portfolio v2](https://v0-portfolio-project-ideas-five.vercel.app/)** | Modern interactive portfolio with project showcases | HTML5, CSS3, JavaScript, GSAP |
-| **[⚡ Real-time Data Visualizer](https://github.com/atharvjadhav1112/data-visualizer)** | Live telemetry dashboard for IoT sensor networks | Python, WebSockets, D3.js, FastAPI |
-
-### 🔧 **Tools & Utilities**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[🤖 AI Code Assistant](https://github.com/atharvjadhav1112/ai-coder)** | VS Code extension for intelligent code completion | TypeScript, OpenAI API, Node.js |
-| **[📊 Data Pipeline Framework](https://github.com/atharvjadhav1112/data-pipeline)** | Scalable ETL framework for big data processing | Python, Apache Airflow, PostgreSQL |
-| **[🔐 Secure Auth System](https://github.com/atharvjadhav1112/auth-system)** | JWT-based authentication microservice | Node.js, Redis, MongoDB, Docker |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atharvjadhav1112&theme=radical&no-frame=true&row=2&column=4" />
+</p>
 
 ---
 
-## 📚 Publications & Research
+## ✨ Technical Achievements
 
-### 📖 **Books Authored**
-- **"The Cyber Alchemist: Unlocking the Secret of Hacking for Beginners"** (2025) - *Cybersecurity fundamentals & ethical hacking*
-- **"Essence of Design"** (2025) - *Designing and Web Tech. & real-time programming*
+✅ 95% noise reduction in signal data using advanced digital filters  
 
-### 🎓 **Research Papers**
-- **"Ambulance Detection Using RFID Reader"** - *International Journal of Novel Research and Development (IJNRD), Feb 2025*
-- **"Advanced Signal Processing Techniques for Biomedical Applications"** - *Under review for IEEE Transactions*
-- **"Machine Learning Approaches for Real-time Anomaly Detection in IoT Systems"** - *In preparation*
+✅ 40% efficiency improvement in data processing pipelines  
 
-### 🏅 **Awards & Recognition**
-- **Rising Star Award 2025** - Navsahyadri Education Society
-- **Best Research Project Award 2024** - College Technical Symposium
-- **DRDO-DIAT Research Fellowship** - Prestigious defense research internship
-- **InnoVention 2025 Qualifier** - National-level innovation competition
+✅ 92% accuracy in biomedical signal classification models  
 
----
+✅ 93.4% detection accuracy with 23% fewer false positives in anomaly detection  
 
-## 💼 Experience & Leadership
+✅ 60% reduction in manual verification through automated validation frameworks  
 
-### 🔬 **Research Experience**
-- **DRDO-DIAT Research Intern** (Jun 2025 - Sept 2025)  
-  *Signal Processing, Machine Learning, Biomedical Data Analysis*
-- **Undergraduate Researcher** (2024 - Present)  
-  *IoT Systems, Embedded AI, Smart City Technologies*
+✅ 10,000+ daily data points processed in financial market analysis systems  
 
-### 👨‍💻 **Technical Leadership**
-- **Technical Lead** - TechGuardians Team | *InnoVent 2026 National Project*
-- **Campus Tech Presenter** - Delivered 10+ technical seminars on AI & Embedded Systems
-- **Open Source Contributor** - Active across multiple repositories and communities
-
-### 🏛️ **Positions of Responsibility**
-- **Treasurer** - Computer Department, NGI Pune | *Managed 2L+ INR budget*
-- **Editorial Team Member** - NEXUS Committee | *Technology content creation & editing*
-- **NSS Volunteer** - Community development & digital literacy programs
+✅ 8–15% AUC-ROC improvement across diverse datasets via ensemble anomaly detection  
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 💡 Currently Building & Exploring
+
+🔭 Advanced ML research at DRDO–DIAT – biomedical signal classification & real-time systems  
+
+🌱 Learning Advanced Algorithms, System Design, Cloud Architecture, Quantum Computing  
+
+👯 Open to collaborating on AI/ML, Signal Processing, IoT & Embedded Systems, and Open Source  
+
+🤔 Exploring Quantum Machine Learning, Federated Learning & Edge AI deployment  
+
+💬 Ask me about Python, Machine Learning, Signal Processing, Research Methodology & Career Guidance  
+
+⚡ Fun fact — I can debug complex algorithms faster than I can decide what to eat 🍕  
+
+---
+
+## 📫 Let’s Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharv-jadhav-6044032b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:atharvjadhav1112@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -151,32 +384,6 @@ Welcome to my GitHub! I'm a passionate **Computer Engineering student** blending
   </a>
 </p>
 
----
-
-## 💡 Currently Building
-
-- 🔭 **Advanced ML Research** at DRDO-DIAT - Biomedical signal classification
-- 🌱 **Learning** - Cloud Native Technologies, Advanced Algorithms, System Design
-- 👯 **Looking to Collaborate** on Open Source AI/ML and Embedded Systems projects
-- 🤔 **Exploring** - Quantum Machine Learning, Federated Learning, Edge AI
-- 💬 **Ask me about** - Python, Machine Learning, Research Methodology, Career Guidance
-- ⚡ **Fun fact** - I can debug complex algorithms faster than deciding what to eat! 🍕
-
----
-
-## 🎯 GitHub Trophy Case
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharvjadhav1112&theme=radical&no-frame=true&row=2&column=4" />
+  💬 <i>“Thank you for visiting my profile! Feel free to explore my repositories, contribute to projects, or reach out for collaboration.”</i> 🚀
 </p>
-
----
-
-## 📈 Contribution Metrics
-
-```text
-📊 This Week's Development Breakdown:
-Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   45.2%
-HTML And CSS 🟨🟨🟨🟨🟨🟨🟨          28.7%
-Java         🟥🟥🟥🟥                15.4%
-C++          🟪🟪🟪                  10.7%
