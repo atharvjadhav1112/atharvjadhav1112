@@ -25,37 +25,101 @@ Computer Engineering Student • Data Science & AI Researcher • ML Engineer �
 
 ## 🚀 About Me
 
-I am a **Computer Engineering undergraduate** with strong expertise in **Data Science, Machine Learning, Signal Processing, Embedded Systems, and Full-Stack Development**.  
-I focus on **research-driven, real-world systems** that integrate **AI models, real-time data, and scalable software architectures**.
+I am a **Computer Engineering undergraduate** with strong expertise in  
+**Data Science, Machine Learning, Signal Processing, Embedded Systems, and Full-Stack Development**.
 
-- 🎓 **B.Tech Computer Engineering**, NGI Pune – SPPU (2023–2027)  
-  - CGPA: **8.82 (FY)** • **8.36 (SY)**
+I focus on building **research-driven, real-world systems** that integrate  
+**AI models, real-time data, and scalable software architectures**.
+
+- 🎓 **B.Tech in Computer Engineering**, NGI Pune – SPPU (2023–2027)  
+  - CGPA: **8.82 (FY)** • **8.36 (SY)**  
+- 📍 Pune, India  
 
 ---
 
-## 🧑‍💻 Current Internship (Present)
+## 🔭 Currently Working On
 
-### 📊 Data Science Intern — **Innomatics Research Labs**
+- 📊 Industry-level **Data Science projects** @ Innomatics Research Labs  
+- 🧠 AI-based **Anomaly Detection & ML pipelines**  
+- 📡 **Signal Processing** for real-time and embedded systems  
+- 🚀 Preparing for **ML / Data Science / Research roles**
+
+---
+
+## 🧑‍💻 Current Internship
+
+### 📊 Data Science Intern — **Innomatics Research Labs**  
 **2026 – Present**
 
-- Hands-on experience with **industry-grade data science workflows**
-- Built **EDA, preprocessing, and ML pipelines** using Python
-- Worked on **feature engineering, regression & classification models**
-- Strengthened applied understanding of **ML engineering & analytics**
+- Hands-on work with **real-world datasets** and industry workflows  
+- Performed **EDA, preprocessing, feature engineering**  
+- Built **regression & classification models** using Python  
+- Strengthened practical understanding of **ML engineering**
 
 ---
 
 ## 🔬 Previous Internship
 
-### 🧠 Data Science & AI Research Intern — **DRDO–DIAT, Pune**
+### 🧠 Data Science & AI Research Intern — **DRDO–DIAT, Pune**  
 **Jun 2025 – Sept 2025**
 
-- Developed **real-time biomedical signal preprocessing pipelines**
-- Achieved **95% noise reduction** using digital filters
-- Built ML models with **92% classification accuracy**
-- Improved processing efficiency by **40%**
-- Designed **Tkinter-based real-time visualization tools**
+- Built **real-time biomedical signal preprocessing pipelines**  
+- Achieved **95% noise reduction** using digital filters  
+- Developed ML models with **92% classification accuracy**  
+- Improved processing efficiency by **40%**  
+- Designed **Tkinter-based real-time visualization tools**  
 - Integrated **embedded systems** for live monitoring
+
+---
+
+## 🧠 Research Snapshot
+
+- 🔬 Focus Areas:  
+  **Machine Learning • Signal Processing • Anomaly Detection • Embedded AI**
+
+- 📈 Key Outcomes:  
+  - 95% noise reduction in biomedical signals  
+  - 92%+ ML model accuracy  
+  - 40% performance improvement in pipelines  
+  - Research work aligned with **IEEE / IJNRD / IRE Journals**
+
+- 🧪 Methods:  
+  Supervised & Unsupervised ML, Statistical Analysis, Feature Engineering
+
+---
+
+## 🚀 Featured Projects
+
+### 🚑 RFID-Based Ambulance Detection System  
+- Smart traffic signal prioritization using **RFID + AI**  
+- Reduced emergency response delay by **30–60% (simulated)**  
+- Designed for **Smart City integration**
+
+### 📊 Enhanced Signal Preprocessor & Analyzer  
+- End-to-end signal preprocessing toolkit  
+- Advanced filtering, denoising, clustering & visualization  
+- Professional **Tkinter-based GUI**
+
+### 📈 Market Intelligence Platform  
+- Real-time financial data analytics using APIs  
+- Predictive models for trend analysis  
+- Interactive dashboards & reports
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,sql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,spring" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,aws" />
+</p>
 
 ---
 
@@ -68,25 +132,13 @@ I focus on **research-driven, real-world systems** that integrate **AI models, r
 
 ---
 
-## 🛠️ Technical Stack
+## 🏆 Achievements Highlights
 
-**Languages**  
-Python • Java • C/C++ • SQL • JavaScript • MATLAB • R  
-
-**AI / ML & Data Science**  
-Scikit-learn • TensorFlow • PyTorch • PyOD • Pandas • NumPy • SciPy  
-
-**Signal Processing**  
-FFT • Butterworth • Savitzky–Golay • Wavelet • Spectral Analysis  
-
-**Web & Backend**  
-React • Node.js • Django • Flask • Spring Boot • REST APIs  
-
-**Databases & Cloud**  
-MySQL • PostgreSQL • MongoDB • AWS • Docker • Kubernetes  
-
-**Tools**  
-Git • GitHub • Linux • VS Code • Jupyter • Postman  
+- 🏆 Rising Star Award – Navsahyadri Education Society  
+- 🧠 DRDO–DIAT Research Fellowship  
+- 📈 95% noise reduction in biomedical signals  
+- 🤖 92% ML classification accuracy  
+- ⚡ 40% pipeline efficiency improvement  
 
 ---
 
@@ -104,21 +156,10 @@ Git • GitHub • Linux • VS Code • Jupyter • Postman
 
 ---
 
-## 🏆 Achievements Highlights
-
-- 🏆 Rising Star Award – Navsahyadri Education Society  
-- 🧠 DRDO–DIAT Research Fellowship  
-- 📈 95% noise reduction in biomedical signals  
-- 🤖 92% ML model accuracy  
-- ⚡ 40% pipeline efficiency improvement  
-- 📊 93.4% anomaly detection accuracy (research project)
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/NEW-LINKEDIN-ID">
+  <a href="https://www.linkedin.com/in/atharv--jadhav/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:atharvjadhav1112@gmail.com">
