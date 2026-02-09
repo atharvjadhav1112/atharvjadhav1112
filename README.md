@@ -1,124 +1,124 @@
-<!-- Animated Header -->
+<!--
+   🔥 ATHARV JADHAV | GITHUB PROFILE README
+-->
+
+<h1 align="center">👋 Hi, I'm Atharv Jadhav</h1>
+
+<h3 align="center">
+Computer Engineering Student • Data Science & AI Researcher • ML Engineer • Published Author • Full-Stack Developer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Atharv+Atmaram+Jadhav;Data+Science+%26+AI+Research+Intern;Embedded+Systems+%7C+Signal+Processing;Author+%7C+Researcher+%7C+Engineer" />
+  <a href="https://github.com/atharvjadhav1112">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Current+Data+Science+Intern+@+Innomatics;Ex-Research+Intern+@+DRDO+DIAT;Signal+Processing+%26+AI+Research;Machine+Learning+Engineer;Embedded+Systems+%26+IoT;Published+Author+%26+Researcher;Always+learning+something+new+🚀&center=true&width=950&height=45&pause=900&size=22" />
+  </a>
 </p>
 
-<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtharvJadhav&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=atharvjadhav1112&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/atharvjadhav1112?label=Followers&style=flat-square&color=brightgreen" />
+  <img src="https://img.shields.io/github/stars/atharvjadhav1112?label=Stars&style=flat-square&color=yellow" />
+  <img src="https://img.shields.io/github/commit-activity/m/atharvjadhav1112?style=flat-square&color=orange" />
+  <img src="https://img.shields.io/github/repo-count/atharvjadhav1112?label=Public%20Repos&style=flat-square&color=informational" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 **Computer Engineering Undergraduate (2023–2027)**  
-🧠 **Data Science & AI Research Intern – DRDO DIAT Pune**  
-📚 **Author** – *The Cyber Alchemist*  
-🔬 Research-oriented engineer with strong focus on **AI, Signal Processing, Embedded Systems, and Smart Infrastructure**
+I am a **Computer Engineering undergraduate** with strong expertise in **Data Science, Machine Learning, Signal Processing, Embedded Systems, and Full-Stack Development**. I actively work on **research-driven, real-world systems** that combine **AI algorithms with hardware and scalable software architectures**.
 
-I specialize in **turning real-world problems into deployable technical systems** through research, prototyping, and data-driven engineering.
+- 🎓 **B.Tech Computer Engineering**, NGI Pune – SPPU (2023–2027)  
+  - CGPA: **8.82 (FY)** • **8.36 (SY)**
 
 ---
 
-## 🧑‍🔬 Experience & Leadership
+## 🧑‍💻 Current Internship (Present)
 
-- **DRDO – DIAT Pune**  
-  *Data Science & AI Research Intern*  
-- **Treasurer** – Computer Engineering Department Committee  
-- **Editorial Member** – NEXUS Magazine  
-- **IEEE Research Author**  
+### 📊 Data Science Intern — **Innomatics Research Labs**
+**2026 – Present**
 
----
-
-## 🚀 Tech Stack
-
-### 🧠 Data Science & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib" />
-</p>
-
-### ⚙️ Embedded Systems & IoT
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c" />
-</p>
-
-### 🌐 Web & Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp" />
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+- Applied **Python, ML, and data analytics** on real-world datasets  
+- Built **end-to-end data preprocessing and modeling pipelines**  
+- Worked on **EDA, feature engineering, and predictive modeling**  
+- Gained hands-on exposure to **industry-grade data science workflows**  
+- Strengthened applied skills for **AI/ML engineering roles**
 
 ---
 
-## 📌 Featured Projects (Portfolio)
+## 🔬 Previous Internship
 
-### 🚑 RFID-Based Ambulance Detection System  
-**Smart Traffic Signal Control using AI + RFID**  
-- Automated ambulance prioritization  
-- AI-assisted traffic optimization  
-- Smart City ready architecture  
+### 🧠 Data Science & AI Research Intern — **DRDO–DIAT, Pune**
+**Jun 2025 – Sept 2025**
 
-### 📊 Enhanced Signal Preprocessor & Analyzer  
-- Advanced filtering, denoising, clustering  
-- Tkinter-based GUI with live visualization  
-- CSV-based industrial signal processing  
-
-### 📈 Market Analysis Application  
-- API-driven real-time data analytics  
-- Trend visualization & insights  
+- Real-time **biomedical signal preprocessing pipelines**
+- **95% noise reduction** using digital filters  
+- **92% classification accuracy** on biomedical signals  
+- **40% processing efficiency improvement**
+- Tkinter-based real-time visualization GUIs  
+- Embedded system integration for live monitoring
 
 ---
 
-## 📄 Research & Publications
+## 🎯 Career Focus
 
-- 📑 **IEEE Paper** – *Ambulance Detection using RFID Reader*  
-- ✍️ Preparing **Scopus-indexed research** (DRDO internship-based)  
+- AI / ML Research Scientist  
+- Machine Learning Engineer  
+- Embedded & Edge AI Specialist  
+- Data Science & Signal Processing Research
+
+---
+
+## 🛠️ Technical Stack (Highlights)
+
+**Languages**  
+Python • Java • C/C++ • SQL • JavaScript • MATLAB • R  
+
+**AI / ML**  
+Scikit-learn • TensorFlow • PyTorch • PyOD • Pandas • NumPy • SciPy  
+
+**Signal Processing**  
+FFT • Butterworth • Savitzky–Golay • Wavelet • Spectral Analysis  
+
+**Web & Backend**  
+React • Node.js • Django • Flask • Spring Boot • REST APIs  
+
+**Databases & Cloud**  
+MySQL • PostgreSQL • MongoDB • AWS • Docker • Kubernetes  
+
+**Tools**  
+Git • GitHub • Linux • VS Code • Jupyter • Postman  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvJadhav&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvJadhav&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvjadhav1112&show_icons=true&count_private=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvjadhav1112&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvJadhav&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvjadhav1112&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvjadhav1112&theme=react-dark&bg_color=000000&hide_border=true" width="49%"/>
 </p>
 
 ---
 
-## 🎯 Career Focus
-
-- Data Science & AI Research  
-- Signal Processing & Defense Applications  
-- Embedded Intelligence & Smart Systems  
-- Research + Industry Problem Solving  
-
----
-
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atharv-jadhav-6044032b2">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/NEW-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:atharvjadhav1112@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/AtharvJadhav">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://leetcode.com/u/atharvjadhav1112/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>“Engineering intelligence into systems that matter.”</i>
+  <i>“Engineering intelligence into real-world systems.”</i> 🚀
 </p>
