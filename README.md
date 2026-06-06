@@ -23,8 +23,8 @@
 
 I'm a **Computer Engineering undergraduate** at Savitribai Phule Pune University (2023–2027), passionate about building intelligent, real-world systems at the intersection of **Agentic AI, Machine Learning, and Data Engineering**.
 
-- 🔭 Currently: **Agentic AI Intern @ Innomatics Research Labs** — building production-grade LLM agents and multi-agent pipelines
-- 🏛️ Ex: **Research Intern @ DRDO–DIAT Pune** — real-time biomedical signal processing & anomaly detection
+- 🏛️ Ex: **Agentic AI Intern @ Innomatics Research Labs** — building production-grade LLM agents and multi-agent pipelines
+- 🏛️ Ex: **Research Intern @ DRDO–DIAT Pune** — real-time  signal processing & anomaly detection
 - 🧠 Experienced with **GPT-4, Claude, Gemini, Llama, Mistral** across RAG, agentic, and multi-agent architectures
 - 📄 Published researcher — 2 journal papers + 2 technical books
 - 🏆 Rising Star Award 2025 · DRDO–DIAT Research Fellowship
@@ -85,7 +85,7 @@ I'm a **Computer Engineering undergraduate** at Savitribai Phule Pune University
 | 🛰️ **[OrbitAI — Space Mission Control](https://github.com/atharvjadhav1112)** | Real-time satellite monitoring, telemetry analysis, predictive diagnostics with 3D dashboard | Gemini · Random Forest · Python |
 | 🧠 **[Autonomous Analytics Intelligence Platform](https://github.com/atharvjadhav1112)** | Multi-agent GenAI system with ETL pipelines, anomaly detection, data drift monitoring, Docker sandbox | GPT-4 · Claude · LangGraph · Docker · K8s |
 | 📈 **[AutoAnomalyDetection](https://github.com/atharvjadhav1112)** | Automated anomaly detection — 93.4% accuracy, 23% fewer false positives | Scikit-learn · Pandas · NumPy |
-| 📡 **[Signal Preprocessor & Analyzer](https://github.com/atharvjadhav1112)** | Real-time biomedical signal pipeline — 95% noise reduction (DRDO project) | Python · SciPy · Matplotlib · Tkinter |
+| 📡 **[Signal Preprocessor & Analyzer](https://github.com/atharvjadhav1112)** | Real-time signal pipeline — 95% noise reduction (DRDO project) | Python · SciPy · Matplotlib · Tkinter |
 | 💹 **[Financial Market Analysis Platform](https://github.com/atharvjadhav1112)** | End-to-end pipeline for real-time financial data, ARIMA forecasting, automated dashboards | Python · ARIMA · Pandas · APIs |
 
 ---
@@ -97,7 +97,7 @@ I'm a **Computer Engineering undergraduate** at Savitribai Phule Pune University
    └─ Multi-agent systems · LangChain · LangGraph · AutoGen · FastAPI · AWS
 
 🏛️ Data Science Intern      @ DRDO–DIAT, Pune              Jun 2025 – Sept 2025
-   └─ Biomedical signal processing · Anomaly detection · 95% noise reduction
+   └─  signal processing · Anomaly detection · 95% noise reduction
 ```
 
 ---
