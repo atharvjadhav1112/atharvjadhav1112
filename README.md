@@ -5,7 +5,7 @@
 # Atharv Jadhav
 ### AI Agent Developer · Data Scientist · ML Engineer · Researcher
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Agentic+AI+Intern+%40+Ex+Innomatics+Research+Labs;Ex+Research+Intern+%40+DRDO%E2%80%93DIAT+Pune;Building+LLM+%7C+RAG+%7C+Multi-Agent+Systems;Published+Author+%26+Researcher)](https://github.com/atharvjadhav1112)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Ex+Agentic+AI+Intern+%40+Innomatics+Research+Labs;Ex+Research+Intern+%40+DRDO%E2%80%93DIAT+Pune;Building+LLM+%7C+RAG+%7C+Multi-Agent+Systems;Published+Author+%26+Researcher)](https://github.com/atharvjadhav1112)
 
 <p>
   <a href="https://www.linkedin.com/in/atharv--jadhav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
