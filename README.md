@@ -28,7 +28,7 @@ I'm a **Computer Engineering undergraduate** at Savitribai Phule Pune University
 - 🧠 Experienced with **GPT-4, Claude, Gemini, Llama, Mistral** across RAG, agentic, and multi-agent architectures
 - 📄 Published researcher — 2 journal papers + 2 technical books
 - 🏆 Rising Star Award 2025 · DRDO–DIAT Research Fellowship
-- 📍 Pune, India · CGPA: **8.82**
+- 📍 Pune, India · CGPA: **8.28**
 
 ---
 
